@@ -24,9 +24,6 @@ SowEasy aims to:
 This application is trained using a dataset from **Kaggle**, which contains details about various crops and their ideal growing conditions.
 - 📂 **Dataset Link:** [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 
-## 🔗 Live App
-You can access the live version of SowEasy here:  
-🌐 **[SowEasy - Crop Recommender](https://soweasy.streamlit.app/)**
 
 ## 🏗 Tech Stack
 - **Python** – Core programming language  
